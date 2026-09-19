@@ -1,0 +1,38 @@
+{
+  "trip_id": "2026-10-10-example-2d",
+  "plan_version": 1,
+  "content_hash": "46f5798310200a03a0771e997fb769493050e1e44cf3c390300660e4b3826c50",
+  "generated_at": "2026-09-19T23:24:57+08:00",
+  "renderer_version": "2.2.1",
+  "files": [
+    {
+      "path": "outputs/2026-10-10-example-2d_v1.md",
+      "kind": "md",
+      "sha256": "4d8596ddc2d6cb3b92177ee3d9b6a0a49ba405416a903629c5f9bd797f8863e0",
+      "bytes": 19577
+    },
+    {
+      "path": "outputs/2026-10-10-example-2d_v1.html",
+      "kind": "html",
+      "sha256": "8b561f997da105ede86298b3700bbdf83b5119e0b8dea96b81d85bb42a34e29d",
+      "bytes": 111137
+    }
+  ],
+  "coverage": {
+    "md": {
+      "required": 203,
+      "present": 203,
+      "missing": []
+    },
+    "html": {
+      "required": 203,
+      "present": 203,
+      "missing": []
+    }
+  },
+  "attribution": {
+    "text": "由 不一书旅行规划Skill 生成",
+    "md": true,
+    "html": true
+  }
+}
