@@ -2,7 +2,7 @@
   <img src="docs/images/hero.png" alt="不一书旅行规划：从旅行想法，到可执行的每日行程。" width="100%">
 </p>
 
-<h1 align="center">不一书旅行规划</h1>
+<h1 align="center">旅行规划</h1>
 
 <p align="center">
   <strong>从旅行想法，到可执行的每日行程。</strong><br>
